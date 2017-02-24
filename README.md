@@ -6,14 +6,14 @@
 
 		Note: This will currently ONLY work with Windows OS.
 
-﻿# BetterPasswords - Python Script
+# BetterPasswords - Python Script
 	Step 1: Install Python if you have not already.
 	Step 2: Download the zipped file found on the right.
 	Step 3: Extract the file "BetterPasswords.py" to your desktop using Winrar or alternative software.
 	Step 4: Run the file & enter your weak password (your password must contain letters only)
 	Step 5: Copy the final result from "Password.txt" and memorize your new password.
 
-﻿# BetterPasswords - About
+# BetterPasswords - About
 
 The BetterPasswords project was launched on the 24th of February 2017 and is aimed to increase the security of passwords.
 With the recent trends in database leaks it is now more important than ever to use a strong and safe password to secure your accounts.
