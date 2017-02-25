@@ -14,8 +14,6 @@ if defined id if "%id:~5,1%"=="" (
     pause
     exit
 ) else (
-    
-
 
 echo Success! Loading...
 pause
