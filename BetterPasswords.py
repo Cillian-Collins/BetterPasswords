@@ -1,6 +1,13 @@
 from random import randint
 import subprocess as sp
 
+print("+=====================================================================================================================+")
+print("|                                                                                                                     |")
+print("|                                                  BETTER PASSWORDS                                                   |")
+print("|                                                 by Cillian Collins                                                  |")
+print("|                                                                                                                     |")
+print("+=====================================================================================================================+")
+
 word = str(raw_input('Enter your password here: '))
 
 while len(word) < 6 or not word.replace(' ', '').isalpha():

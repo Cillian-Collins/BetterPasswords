@@ -1,7 +1,13 @@
 @ECHO OFF
 
-set /p id="Enter Your Password: "
+echo +=====================================================================================================================+
+echo +                                                                                                                     +
+echo +                                                  BETTER PASSWORDS                                                   +
+echo +                                                by Cillian Collins                                                   +
+echo +                                                                                                                     +
+echo +=====================================================================================================================+
 
+set /p id="Enter Your Password: "
 if defined id if "%id:~5,1%"=="" (
     echo Your passsword must be more than 6 characters.
     echo Please open the batch file again!
