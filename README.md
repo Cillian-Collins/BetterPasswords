@@ -1,4 +1,17 @@
-﻿# BetterPasswords - Batchfile
+﻿# BetterPasswords - HTML
+ Step 1: Download the HTML folder.
+ 
+ Step 2: Extract the folder to a location on your computer (preferably desktop).
+ 
+ Step 3: Run the HTML file.
+ 
+ Step 4: Type in the password.
+ 
+ Step 5: Your new password is now automatically copied.
+ 
+ 	Note: This can be uploaded to a website by making the .html name "index.html" and placing it in the root directory of your website.
+ 
+ # BetterPasswords - Batchfile
 Step 1: We recommend you download the zipped file found on the right.
 
 Step 2: Extract the batch file "BetterPasswords.bat" to your desktop using Winrar or other similar software.
