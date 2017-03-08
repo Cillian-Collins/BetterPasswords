@@ -9,7 +9,8 @@
  
  Step 5: Your new password is now automatically copied.
  
- 	Note: This can be uploaded to a website by making the .html name "index.html" and placing it in the root directory of your website.
+ 	Note: This can be uploaded to a website by making the .html file's name to "index.html"
+		and placing it in the root directory of your website.
  
  # BetterPasswords - Batchfile
 Step 1: We recommend you download the zipped file found on the right.
