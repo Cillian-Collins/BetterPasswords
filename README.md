@@ -35,6 +35,18 @@ Step 4: Run the file & enter your weak password (your password must contain lett
 
 Step 5: Copy the final result from "Password.txt" and memorize your new password.
 
+# BetterPasswords - C (Binaries/Executables)
+
+It's possible to compile our BetterPasswords project into an executable using our C code. Simply follow the steps below:
+
+Step 1: Download our BetterPasswords.c file.
+
+Step 2: Compile the C file into an executable.
+
+Step 3: Run the file & enter your weak password (you may be re-prompted depending on your input).
+
+Step 4: Copy your new password!
+
 # BetterPasswords - About
 
 The BetterPasswords project was launched on the 24th of February 2017 and is aimed to increase the security of passwords.
